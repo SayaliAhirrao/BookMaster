@@ -75,6 +75,7 @@ _## Date Validation_
 Reach out to me at one of the following places!
 
 Ping me in the LinkedIn  at https://www.linkedin.com/in/sayali-ahirrao/
+
 Gmail sayaliahirrao3@gmail.com
 
 ## Final words
