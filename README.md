@@ -54,13 +54,9 @@ _## Edit and  Update a booking_
 
 ![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/deb67642-2da7-4141-8110-53baa3fa5a07)
 
-_## Delete a booking_
-
-![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/ec50072f-fc51-417c-a893-01337fd63254)
-
 _## Validation to prevent overlapping bookings_
 
-![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/4adfa78a-79b9-404d-aa54-9240f65baf03)
+![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/7bfc59a0-7869-4361-a455-70d951211374)
 
 _## Date Validation_
 
