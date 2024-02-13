@@ -1,74 +1,47 @@
 <<<<<<< HEAD
-# Getting Started with Create React App
+# Getting Started with Create React BookMaster App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_##To get a local copy of the code, clone it using git:_
 
-## Available Scripts
+git clone https://github.com/SayaliAhirrao/BookMaster.git
+cd BookMaster
 
-In the project directory, you can run:
+BookMaster allows a user to create or manage bookings.
 
-### `npm start`
+## Install Dependencies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##First you need to execute the below commands to install the specified packages as dependencies for a project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm i -S @mui/material @mui/x-data-grid @mui/icons-material @mui/x-date-pickers dayjs formik object-hash yup
 
-### `npm test`
+npm install @emotion/react
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm install @emotion/styled
 
-### `npm run build`
+##Then execute the npm start in order to initiate a script defined in the package.json file of a Node.js project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+.. happy Coding..!!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Please examine the CRUD features below for handling bookings, such as creating, reading, updating, and deleting bookings. It stores booking data in a global state store, implements validation to prevent overlapping bookings, ensures the application's responsiveness across devices, and provides a good user experience
 
-### `npm run eject`
+creating the Data
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/14b4a9c9-52a2-4a36-9ac7-b0655ae93970)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # BookMaster
 >>>>>>> bb6be33e7b3c1a70558478d7c9eced82ef09634b
