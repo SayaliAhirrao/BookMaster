@@ -5,7 +5,7 @@ BookMaster allows a user to create or manage bookings.
 
 
 ## Table of Contents
-_**Git_**
+**_**Git_****
 **_Install Dependencies_**
 **_Start a local web server_**
 **_Functionality_**
