@@ -4,12 +4,12 @@
 BookMaster allows a user to create or manage bookings.
 
 ## Table of Contents
-## Git
-## Install Dependencies
-## Start a local web server
-## Functionality
-## Support
-## Final words
+Git
+Install Dependencies
+Start a local web server
+Functionality
+Support
+Final words
 
 ## Git
 
@@ -54,13 +54,18 @@ _## Edit and  Update a booking_
 
 ![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/deb67642-2da7-4141-8110-53baa3fa5a07)
 
+_##Delete a booking_
+
+![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/2188f066-f475-4597-9b63-529782aa0683)
+
 _## Validation to prevent overlapping bookings_
 
 ![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/7bfc59a0-7869-4361-a455-70d951211374)
 
 _## Date Validation_
 
-![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/d94f7380-e768-4511-8c89-770ef6e9e444)
+![image](https://github.com/SayaliAhirrao/BookMaster/assets/59266974/18b8531e-3f66-4ce6-9877-f0ed9c23c746)
+
 
 ## Support
 
