@@ -19,6 +19,7 @@ BookMaster allows a user to create or manage bookings.
 _##To get a local copy of the code, clone it using git:_
 
 git clone https://github.com/SayaliAhirrao/BookMaster.git
+
 cd BookMaster
 
 ## Install Dependencies
